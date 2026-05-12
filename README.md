@@ -1,4 +1,4 @@
-# YTLite v5.2b4 by dayanch96
+# Archive of YTLite v5.2b4 by dayanch96
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
 ## Table of Contents
