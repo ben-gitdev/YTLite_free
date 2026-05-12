@@ -60,7 +60,7 @@ on:
 
       info_note:
         description: "TIP: Learn more about integrations in the README via the link below"
-        default: "https://github.com/dayanch96/YTLite#tweak-integration-details"
+        default: "https://github.com/ben-gitdev/YTLite_free#tweak-integration-details"
         type: string
         required: false
 
